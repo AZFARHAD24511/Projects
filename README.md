@@ -1,4 +1,4 @@
-# algorithms
+# List  of My Projects
 this page try to show you algorithms that is very important to solve some problems in economics and statistics
 ## SHAP algorithm https://github.com/AZFARHAD24511/SHAP
 ## daily Exchange rate monitoring(official and black market) in Iran  https://github.com/AZFARHAD24511/exchange_rates_IRAN
