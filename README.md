@@ -1,6 +1,10 @@
 # List  of My Projects
 this page try to show you algorithms that is very important to solve some problems in economics and statistics
-#### SHAP algorithm https://github.com/AZFARHAD24511/SHAP
+#### SHAP (SHapley Additive exPlanations) is a unified framework for interpreting machine learning model predictions. It aims to answer the fundamental question:
+
+"How much did each feature contribute to a specific prediction?"
+
+SHAP combines ideas from game theory and local explanations to attribute the output of a model to its input features in a consistent and theoretically sound way. algorithm https://github.com/AZFARHAD24511/SHAP
 #### daily Exchange rate monitoring(official and black market) in Iran  https://github.com/AZFARHAD24511/exchange_rates_IRAN
 #### This algorithm converts the supply and use tables into input-output tables https://github.com/AZFARHAD24511/Input-output-models
 
